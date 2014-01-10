@@ -1,0 +1,19 @@
+<snippet>
+  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+/*
+  ${1:Title}
+
+  Author:     Stephen Zsolnai (http://www.zolla.co.uk)
+  Company:    Aqueduct (http://www.aqueduct.co.uk)
+  Decription: ${2:description}
+
+--------------------------------------------------------------------------*/
+
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>commentheader</tabTrigger>
+  <description>Header comment for tops of files</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope></scope>
+</snippet>
