@@ -5,18 +5,20 @@
 		"ColorPicker",
 		"Dayle Rees Color Schemes",
 		"Emmet",
+		"Gist",
 		"GotoOpenFile",
 		"Handlebars",
+		"Hayaku - tools for writing CSS faster",
 		"jQuery",
-		"JSHint Gutter",
+		"JSHint",
 		"LESS",
 		"Pretty JSON",
-		"Sass",
 		"SideBarEnhancements",
 		"SideBarGit",
 		"SnippetMaker",
 		"Stylus",
-		"sublimelint",
+		"SublimeCodeIntel",
+		"SublimeOnSaveBuild",
 		"Theme - Soda"
 	]
 }

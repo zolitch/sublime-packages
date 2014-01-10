@@ -1,12 +1,18 @@
 {
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/Color Scheme - Default/Sunburst.tmTheme",
-	"font_size": 9,
+	"font_size": 12,
+	"hayaku_CSS_prefixes_disable": true,
+	"hayaku_CSS_syntax_autoguess":
+	[
+		"selector",
+		"property value"
+	],
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"Dayle Rees Color Schemes"
+		"Dayle Rees Color Schemes",
+		"Vintage"
 	],
 	"tab_size": 2,
 	"theme": "Soda Dark 3.sublime-theme",

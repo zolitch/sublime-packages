@@ -1,0 +1,13 @@
+<snippet>
+  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+
+/* jshint laxcomma : true, quotmark:false */
+/* global require,module */
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>jsHint</tabTrigger>
+  <description>jsHint config header</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js, comment.block.js, punctuation.definition.comment.js</scope>
+</snippet>
