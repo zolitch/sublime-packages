@@ -1,0 +1,29 @@
+<snippet>
+  <content><![CDATA[
+<table>
+  <thead>
+    <tr>
+      <th>Header content 1</th>
+      <th>Header content 2</th>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <td>Footer content 1</td>
+      <td>Footer content 2</td>
+    </tr>
+  </tfoot>
+  <tbody>
+    <tr>
+      <td>Body content 1</td>
+      <td>Body content 2</td>
+    </tr>
+  </tbody>
+</table>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>table</tabTrigger>
+  <description>Table markup</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html.handlebars</scope>
+</snippet>

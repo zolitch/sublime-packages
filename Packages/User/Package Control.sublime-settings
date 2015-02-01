@@ -1,24 +1,36 @@
 {
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
 	"installed_packages":
 	[
-		"Alignment",
-		"ColorPicker",
-		"Dayle Rees Color Schemes",
+		"Color Highlighter",
+		"CSS3",
+		"DashDoc",
+		"DocBlockr",
+		"EJS",
 		"Emmet",
 		"Gist",
-		"GotoOpenFile",
+		"Git",
 		"Handlebars",
-		"Hayaku - tools for writing CSS faster",
+		"HTMLEntity Snippets",
+		"Jasmine JS",
 		"jQuery",
-		"JSHint",
-		"LESS",
+		"MarkdownEditing",
+		"Package Control",
 		"Pretty JSON",
 		"SideBarEnhancements",
-		"SideBarGit",
 		"SnippetMaker",
 		"Stylus",
-		"SublimeCodeIntel",
-		"SublimeOnSaveBuild",
+		"Stylus-Snippets",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"Theme - Centurion",
 		"Theme - Soda"
 	]
 }

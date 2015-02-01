@@ -1,7 +1,7 @@
 {
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Color Scheme - Default/Sunburst.tmTheme",
-	"font_size": 12,
+	"color_scheme": "Packages/User/Sunburst (SL).tmTheme",
+	"font_size": 11,
 	"hayaku_CSS_prefixes_disable": true,
 	"hayaku_CSS_syntax_autoguess":
 	[
@@ -11,11 +11,12 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Dayle Rees Color Schemes",
-		"Vintage"
+		"CSS",
+		"Vintage",
+		"Markdown"
 	],
 	"tab_size": 2,
-	"theme": "Soda Dark 3.sublime-theme",
+	"theme": "Centurion.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"word_separators": "./\\()\"'-:,.;<>~!@#%^&#038;*|+=[]{}`~?"
 }
